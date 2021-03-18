@@ -1,3 +1,3 @@
-## Midterm Project
-# Drew Koense
+# Midterm Project
+By Drew Koense
 
