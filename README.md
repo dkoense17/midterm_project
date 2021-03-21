@@ -13,4 +13,8 @@ By Drew Koense
 - [Renewable energy dataset](https://ourworldindata.org/renewable-energy)
 - [Global temperature dataset](https://data.giss.nasa.gov/gistemp/graphs/graph_data/Global_Mean_Estimates_based_on_Land_and_Ocean_Data/graph.txt)
 5. Some ethical questions could include:
-- Currently can not think of anything that would be ethically concerning regarding this data
+- Will the results show people are in danger because of the rapid changing effects?
+- Will these potential dangers be more harmful to countries that are less developed?
+- What variables cause some countries to be far more harmful to the environment than others? Are those variables changeable without drastically and negatively affecting the lives of the people in those countries?
+- Can we slow down the rapid change without drastic affects on society as a whole?
+- If yes to the previous question, is it financially possible?
